@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css?family=Titillium+Web');
+
+
+h1, h2, h3 {
+    text-align: center;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+form {
+    text-align: center;
+}
+
+input {
+    width: 300px;
+    border: 1px solid;
+    text-align: center;
+}
+
+button {
+    text-align: center;
+    padding: 1em;
+    border: 0;
+    background: #cc262a;
+    border-radius: 2px;
+    color: white;
+    cursor: pointer;
+    display: block;
+    margin: 1em auto;
+}
+
+#stats {
+    width: 100%;
+}
+
+#bar {
+    width: 1200px;
+    display: block;
+    margin: auto;
+}
+#radial {
+    width: 600px;
+    display: block;
+    margin: auto;
+}
